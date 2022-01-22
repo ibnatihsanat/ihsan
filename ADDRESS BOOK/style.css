@@ -1,0 +1,110 @@
+.abdiv{
+    height:900px;
+    width: 80%;
+    margin: auto;
+}
+.mainmenudiv{
+    font-size: 25px;
+    font-family: ariel,cambria,constania;
+    height: 50px;
+    width: 100px;
+    float: center;
+    margin: auto;
+    border-radius: 5px;
+}
+
+.menudiv{
+height:100px; 
+width:450px;
+border-radius:15px;
+margin:auto;}
+
+.tbdiv{
+height:50px;
+width:100px;
+float:left;
+}
+
+.fvdiv{
+height:50px;
+width:100px;
+float:left;
+margin-right: 10px;
+}
+
+.nvdiv{
+height:50px;
+width:100px;
+float:left;
+margin-right: 25px;
+}
+
+.dadiv{
+height:50px;
+width:100px;
+float:left;
+margin-left: 10px;
+}
+h1{
+    text-align: center;
+    color:forestgreen;
+    font-size: 30px;
+    font-family: cambria;
+}
+nav{
+    text-align: center;
+}
+.xxdiv{
+height: 200px;
+width: 150px;
+border-radius: 10px;
+margin: auto;
+position: relative;
+right: 40%;
+}
+.madiv{
+height: 50px;
+width: 50px;
+margin-bottom: 40px;
+}
+.adiv{
+ height:50px;
+ width: 50px;
+ margin-bottom: 30px;
+
+}
+.sdiv{
+height: 50px;
+width: 50px;
+margin-bottom: 30px;
+}
+.pdiv{
+height: 410px;
+width: 610px;
+border-radius: 10px;
+float: right;
+position: relative;
+bottom: 40%;
+right: 10%;
+}
+img{
+height: 400px;
+width: 600px;
+border-radius: 30px;
+border: 5px solid forestgreen;
+}
+a:link{
+    color: white;
+}
+a:hover{
+    color: whitesmoke;
+}
+.btn{
+    background-color: forestgreen;
+    color: white;
+    border: none;
+    padding: 12px 16px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 15px;
+}
